@@ -1,0 +1,10 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\bin\Debug\MJC_GUICreation.exe.config
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\bin\Debug\MJC_GUICreation.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\bin\Debug\MJC_GUICreation.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\obj\Debug\MJC_GUICreation.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\obj\Debug\MJC_GUICreation.Form1.resources
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\obj\Debug\MJC_GUICreation.Properties.Resources.resources
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\obj\Debug\MJC_GUICreation.csproj.GenerateResource.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\obj\Debug\MJC_GUICreation.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\obj\Debug\MJC_GUICreation.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_GUICreation\MJC_GUICreation\obj\Debug\MJC_GUICreation.pdb
