@@ -63,6 +63,10 @@ namespace MJC_GUICreation
             else
             {
                 resultBox.Text = "KABOOM! You lost.";
+                Button buttonHolder = (Button)sender;
+                string wireColor = buttonHolder.BackColor.Name;
+                BoomForm boomForm = new BoomForm($"{wireColor}");
+                boomForm.ShowDialog();
             }
 
             //Disable the wires & enable the reset button
@@ -94,6 +98,9 @@ namespace MJC_GUICreation
 
                 gameButton.Text = "Reset";
                 gameButton.Enabled = true;
+
+                BoomForm boomForm = new BoomForm("timer");
+                boomForm.ShowDialog();
 
             }
 
